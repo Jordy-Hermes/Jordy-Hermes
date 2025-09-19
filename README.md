@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jordi-Hermes
 - 👀 I’m interested in MERN Stack for Software Development
-- 🌱 I’m currently learning React, React Native and UI/UX design
+- 🌱 I’m currently working with Next.js, React, React Native and UI/UX design
 - 💞️ I’m looking to collaborate on Website and Web app development
 - 📫 How to reach me jordi.babalako@gmail.com
 
